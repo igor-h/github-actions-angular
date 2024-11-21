@@ -1,6 +1,11 @@
+![Angular CI status](https://github.com/igor-h/github-actions-angular/actions/workflows/angular.yml/badge.svg)
+![Code QL status](https://github.com/igor-h/github-actions-angular/actions/workflows/codeql.yml/badge.svg)
+
+
 # GithubActionsAngular
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.0.
+
 
 ## Development server
 
