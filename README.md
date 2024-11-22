@@ -1,4 +1,6 @@
 ![Angular CI status](https://github.com/igor-h/github-actions-angular/actions/workflows/angular.yml/badge.svg)
+![Deploy](https://github.com/igor-h/github-actions-angular/actions/workflows/deploy.yml/badge.svg)
+![Release](https://github.com/igor-h/github-actions-angular/actions/workflows/release.yml/badge.svg)
 ![Code QL status](https://github.com/igor-h/github-actions-angular/actions/workflows/codeql.yml/badge.svg)
 
 
